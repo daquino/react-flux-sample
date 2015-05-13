@@ -1,4 +1,4 @@
-/** @jx React.DOM */
+/** @jsx React.DOM */
 var React = require('react');
 var AppActions = require('../../actions/app-actions.js');
 
