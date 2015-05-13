@@ -10,7 +10,7 @@
     "gulp-browserify": "*",
     "gulp-concat": "*",
     "object-assign": "*",
-    "react": "^0.14.0-alpha1",
+    "react": "^0.13.3",
     "reactify": "^1.1.1"
   }
 }
