@@ -11,6 +11,10 @@
     "gulp-concat": "*",
     "object-assign": "*",
     "react": "^0.13.3",
-    "reactify": "^1.1.1"
+    "reactify": "^1.1.1",
+    "react-router-component": "*"
+  },
+  "devDependencies": {
+    "http-server": "^0.8.0"
   }
 }

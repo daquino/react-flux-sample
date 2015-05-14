@@ -7,7 +7,7 @@ var AddToCart = React.createClass({
     AppActions.addItem(this.props.item);
   },
   render: function() {
-    return <button onClick={this.handleClick}>Add to Cart</button>
+    return <button className="btn btn-default" onClick={this.handleClick}>Add to Cart</button>
   }
 });
 
